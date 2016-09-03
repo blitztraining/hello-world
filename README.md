@@ -1,2 +1,6 @@
 # hello-world
-This is me learning how to use git
+
+Hey guys whats up
+
+just dicking around trying to learn different coding stuff its kinda fun
+like farting is fun lol
